@@ -8,7 +8,7 @@ Create a small application that provides a dashboard showing how many data sets 
 
 GovData provides two APIs. Use either the [CKAN Action API](https://www.govdata.de/ckan/api/3) ([documentation](https://docs.ckan.org/en/2.9/api/index.html#get-able-api-functions)) or the [SPARQL endpoint](https://www.govdata.de/web/guest/sparql-assistent) to solve this challenge. In `departments.json` you will find all federal ministries and their subordinated agencies that have published data on GovData.
 
-Use a non-proprietary tech stack of your choice and explain in a readme how to run your solution. Please email your solution as a zip file to [challenge@4germany.org](mailto:challenge@4germany.org). If you're using
+Use a non-proprietary tech stack of your choice and explain in a readme how to run your solution. Please email your solution as a zip file to [challenge@tech4germany.org](mailto:challenge@tech4germany.org). If you're using
 Git during building your application please make sure to include the Git history as well.
 
 ## Evaluation
@@ -21,4 +21,4 @@ Note that the UI won't be part of the evaluation (could be plain HTML for instan
 
 ## Have fun! 🚀
 
-We look forward to your submission! Please [let us know](mailto:challenge@4germany.org) if you have any questions or concerns.
+We look forward to your submission! Please [let us know](mailto:challenge@tech4germany.org) if you have any questions or concerns.
